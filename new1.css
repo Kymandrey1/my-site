@@ -1,0 +1,51 @@
+body {
+    padding: 40px;
+    font-family: monospace, sans-serif;
+    font-size: 16px;
+	background-color: #F0F8FF;
+}
+
+p {
+padding:40px;
+font-family: Fantasy;
+font-size: 16px;
+}
+
+table {
+border-spacing: 0 10px;
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+}
+th {
+padding: 10px 20px;
+background: #56433D;
+color: #F9C941;
+border-right: 2px solid; 
+font-size: 0.9em;
+}
+th{
+text-align: left;
+}
+th {
+border-right: none;
+}
+td {
+vertical-align: middle;
+padding: 40px;
+font-size: 14px;
+text-align: center;
+border-top: 2px solid #56433D;
+border-bottom: 2px solid #56433D;
+border-right: 2px solid #56433D;
+}
+td {
+border-left: 2px solid #56433D;
+border-right: none;
+}
+td{
+text-align: left;
+}
+
+img{
+	size:50%;
+}
